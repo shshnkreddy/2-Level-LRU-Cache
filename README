@@ -1,0 +1,3 @@
+This is the implementation to demonstrate how an L1&L2 cache works. The hit rates of the given files are in the HitRateData sheet. To run the program on line 228 in Main.cpp set the file name that you'd like to run and on line 11 set inputLines equal to the number of lines that the file you'd like to read has.
+
+
